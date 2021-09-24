@@ -14,9 +14,9 @@ Bridgetown is a Webpack-aware, Ruby-powered static site generator for the modern
 
 - [Official Resources](#official-resources)
   - [Official Plugins](#official-plugins)
-  - [Official Automation's](#official-automations)
+  - [Official Automations](#official-automations)
 - [Community Resources](#community-resources)
-  - [Automation's](#automations)
+  - [Automations](#automations)
   - [Starters](#starters)
   - [Themes](#themes)
   - [Plugins](#plugins)
@@ -42,14 +42,14 @@ Bridgetown is a Webpack-aware, Ruby-powered static site generator for the modern
 - [bridgetownrb/bridgetown-feed](https://github.com/bridgetownrb/bridgetown-feed) - A Bridgetown plugin to generate an Atom feed of your Bridgetown posts.
 - [bridgetownrb/rubocop-bridgetown](https://github.com/bridgetownrb/rubocop-bridgetown) - A RuboCop extension to enforce common code style in Bridgetown plugins.
 
-### Official Automation's
+### Official Automations
 
-- [bridgetownrb/automations](https://github.com/bridgetownrb/automations) - A collection of helpful automation's that can be applied to Bridgetown websites.
+- [bridgetownrb/automations](https://github.com/bridgetownrb/automations) - A collection of helpful automations that can be applied to Bridgetown websites.
 - [bridgetownrb/node-runner](https://github.com/bridgetownrb/node-runner) - A simple way to execute JavaScript in a Ruby context via Node.
 
 ## Community Resources
 
-### Automation's
+### Automations
 
 - [bridgetown-plugin-tailwindcss](https://github.com/ParamagicDev/bridgetown-plugin-tailwindcss) - An automation for adding TailwindCSS.
 - [bridgetown-automation-cypress](https://github.com/ParamagicDev/bridgetown-automation-cypress) - An automation for adding Cypress.
